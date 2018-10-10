@@ -1,0 +1,4 @@
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.AssemblyInfo.cs
