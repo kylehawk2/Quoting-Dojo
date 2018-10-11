@@ -7,7 +7,7 @@ namespace DbConnection	//you can leave as is, or change to your own namespace
     public class DbConnector
     {
         static string server = "localhost";
-        static string db = "QuotingDojo"; //Change to your schema name
+        static string db = "mydb"; //Change to your schema name
         static string port = "3306"; //Potentially 8889
         static string user = "root";
         static string pass = "root";

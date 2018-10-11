@@ -22,20 +22,20 @@ namespace QuotingDojo.Controllers
         [Route("quotes")]
         public IActionResult Quotes()
         {
-            List<Dictionary<string, object>> AllQuotes = DbConnector.Query("SELECT * FROM quote");
+            List<Dictionary<string, object>> AllQuotes = DbConnector.Query("SELECT * FROM quotes");
 
             ViewBag.quotes = AllQuotes;
 
             return View("quotes");
         }
 
-        [HttpGet]
+        [HttpPost]
         [Route("quote")]
         public IActionResult addQuotes(string name, string quote)
         {
-            string sql = $"INSERT INTO quote(name, quote) VALUES('{name}', '{quote}')";
+            string sql = $"INSERT INTO quotes(Name, Quote, Created_At, Updated_At) VALUES('{name}', '{quote}', NOW(), NOW())";
             DbConnector.Execute(sql);
-            List<Dictionary<string, object>> AllQuotes = DbConnector.Query("SELECT * FROM quote");
+            List<Dictionary<string, object>> AllQuotes = DbConnector.Query("SELECT * FROM quotes");
             ViewBag.quotes = AllQuotes;
             return View("quotes");
         }
