@@ -2,3 +2,10 @@ C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.
 C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.csproj.CoreCompileInputs.cache
 C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.AssemblyInfoInputs.cache
 C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.deps.json
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.dll
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.pdb
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.dll
+C:\Users\Kyle\Documents\C#-.NET\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.pdb

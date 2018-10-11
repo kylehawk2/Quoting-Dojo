@@ -26,7 +26,7 @@ namespace QuotingDojo.Controllers
 
             ViewBag.quotes = AllQuotes;
 
-            return View();
+            return View("quotes");
         }
 
         [HttpGet]
@@ -37,7 +37,7 @@ namespace QuotingDojo.Controllers
             DbConnector.Execute(sql);
             List<Dictionary<string, object>> AllQuotes = DbConnector.Query("SELECT * FROM quote");
             ViewBag.quotes = AllQuotes;
-            return View();
+            return View("quotes");
         }
 
         public IActionResult Error()
